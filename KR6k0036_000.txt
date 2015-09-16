@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 根本說一切有部苾芻尼戒經
+#+DATE: 2015-08-30 20:42:34.029659
+#+PROPERTY: JUAN 0
